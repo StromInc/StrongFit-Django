@@ -1,0 +1,30 @@
+{
+  "name": "strongfit-django",
+  "version": "0.0.0",
+  "description": "Una aplicación con el propósito de ayudar a mejorar la salud de las personas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/strominc/strongfit-django"
+  },
+  "keywords": [
+    "Django",
+    "strom",
+    "strongfit",
+    "chido",
+    "nutricion",
+    "nutriologos",
+    "app"
+  ],
+  "author": "Strom",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/strominc/strongfit-django/issues"
+  },
+  "devDependencies": {
+    "gulp": "~3.9.0"
+  }
+}
